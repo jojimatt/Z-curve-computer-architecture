@@ -4,7 +4,7 @@ This is a group project completely done with c which creates an svg file with Z-
 Use command make to compile the program <br>
 Then run: ./main -options
 
--d\<int>    : o give a degree >=1 <br>
+-d\<int>   : to give a degree >=1 <br>
 -V<int>    : select implemenation version <br>
 		&emsp;&emsp;0:Main Implementation(simd version 1)(z_curve)<br>
 		&emsp;&emsp;1:Simd (version 2) implementation(z_curve_V1)<br>
