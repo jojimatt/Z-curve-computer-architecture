@@ -1,5 +1,5 @@
 # Z-curve-computer-architecture
-This is a group project completely done with c which creates an svg file with Z-curve for any given degree. The code has one basic implementations and two optimized version implementations which runs faster using methods like SIMD. There are also functions like z_curve_at which gives the x and y coordinates for a given index and z_curve_pos which gives the index for given coordinates<br>
+This is a group project completely done with c which creates an svg file with Z-curve(https://de.wikipedia.org/wiki/Z-Kurve) for any given degree. The code has one basic implementation and two optimized version implementations which runs faster using methods like SIMD. There are also functions like z_curve_at which gives the x and y coordinates for a given index and z_curve_pos which gives the index for given coordinates<br>
 
 Use command make to compile the program <br>
 Then run: ./main -options
